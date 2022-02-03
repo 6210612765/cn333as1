@@ -12,3 +12,5 @@
 #Extra Functionalities
 1.show the accuracy percentage of guessing
 2.hint the range of number, so player can guess easier
+
+[!link] : https://youtu.be/eGRVkntUL80
